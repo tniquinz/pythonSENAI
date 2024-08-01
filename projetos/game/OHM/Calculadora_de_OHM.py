@@ -1,0 +1,2 @@
+from OHM import *
+menu()
